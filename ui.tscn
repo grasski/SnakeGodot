@@ -1,10 +1,10 @@
 [gd_scene load_steps=3 format=3 uid="uid://cb11dscyojive"]
 
-[ext_resource type="Script" path="res://ui.cs" id="1_7cu04"]
+[ext_resource type="Script" path="res://ui.cs" id="1_cex5l"]
 [ext_resource type="Texture2D" uid="uid://u4s64kyqj5r8" path="res://assets/backgroud_image.png" id="2_nhep3"]
 
 [node name="UI" type="CanvasLayer"]
-script = ExtResource("1_7cu04")
+script = ExtResource("1_cex5l")
 
 [node name="Score" type="Panel" parent="."]
 anchors_preset = 10
@@ -56,6 +56,7 @@ theme_override_font_sizes/font_size = 50
 text = "WELCOME IN SNAKE GAME"
 horizontal_alignment = 1
 vertical_alignment = 1
+autowrap_mode = 2
 
 [node name="HBoxContainer" type="HBoxContainer" parent="Menu"]
 layout_mode = 1

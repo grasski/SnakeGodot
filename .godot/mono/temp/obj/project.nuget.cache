@@ -1,15 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "MT+/DYT7I1tgYMZKQlEj+HcOtwCkPLFcvBxV3FukMZNhxNsY0GMG/B/bZniWTEDWuQT7735C7ruSFKV+YtpKpQ==",
+  "dgSpecHash": "I2aj7Pqe9yPHAXJZJxgUnARqvd23T3DgSrp5eVOk5CNYUIPMMdGALLNwy5N+TnPL5OZK0wJR043cUkMC/vpW2A==",
   "success": true,
-  "projectFilePath": "D:\\zaloha\\UTB-Ing\\AP8PO\\godot_snake\\Godot Snake.csproj",
+  "projectFilePath": "C:\\Users\\goldb\\SnakeGodot\\Godot Snake.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\jirka\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
-    "C:\\Users\\jirka\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
-    "C:\\Users\\jirka\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512",
-    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
-    "C:\\Users\\jirka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512"
+    "C:\\Users\\goldb\\.nuget\\packages\\godot.sourcegenerators\\4.2.1\\godot.sourcegenerators.4.2.1.nupkg.sha512",
+    "C:\\Users\\goldb\\.nuget\\packages\\godotsharp\\4.2.1\\godotsharp.4.2.1.nupkg.sha512",
+    "C:\\Users\\goldb\\.nuget\\packages\\godotsharpeditor\\4.2.1\\godotsharpeditor.4.2.1.nupkg.sha512"
   ],
   "logs": []
 }

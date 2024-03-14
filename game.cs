@@ -25,7 +25,7 @@ public partial class game : Node
 	int Score { get; set; }
 
 	[Export]
-    PackedScene Segment { get; set; }
+	PackedScene Segment { get; set; }
 
 	[Export]
 	CanvasLayer Ui { get; set; }
@@ -80,12 +80,12 @@ public partial class game : Node
 		var pos = new Vector2(pixel.XPos, pixel.YPos + 1) * tileSize;
 		if (isBerry){
 			var texture = GD.Load<Texture2D>("res://assets/apple.png");
-            Sprite2D sprite = new Sprite2D
-            {
-                Texture = texture,
-                Position = new Vector2(pos.X + (texture.GetSize().X/2), pos.Y + (texture.GetSize().Y/2))
-            };
-            AddChild(sprite);
+			Sprite2D sprite = new Sprite2D
+			{
+				Texture = texture,
+				Position = new Vector2(pos.X + (texture.GetSize().X/2), pos.Y + (texture.GetSize().Y/2))
+			};
+			AddChild(sprite);
 		} else{
 			var segment = Segment.Instantiate();
 
@@ -96,16 +96,16 @@ public partial class game : Node
 	}
 
 	void HandleBerryCollision()
-        {
-            if (Berry.XPos == Snake.XPos && Berry.YPos == Snake.YPos)
-            {
-                Score++;
-                Berry.XPos = randomNumber.Next(0, CellsX - 1);
-                Berry.YPos = randomNumber.Next(0, CellsY - 2);
+		{
+			if (Berry.XPos == Snake.XPos && Berry.YPos == Snake.YPos)
+			{
+				Score++;
+				Berry.XPos = randomNumber.Next(0, CellsX - 1);
+				Berry.YPos = randomNumber.Next(0, CellsY - 2);
 
 				ScoreText.Set("text", "Skóre: " + Score);
-            }
-        }
+			}
+		}
 
 
 	void SetupSizes(){
@@ -158,25 +158,25 @@ public partial class game : Node
 	}
 
 	bool CheckGameOver(Snake snake)
-        {
-            if (snake.XPos == CellsX || snake.XPos+1 == 0 || snake.YPos+1 == CellsY || snake.YPos+1 == 0)
-            {
-                return true;
-            }
-            for (int i=0; i < snake.Tail.Count; i++)
-            {
-                if (snake.Tail[i].XPos == snake.XPos && snake.Tail[i].YPos == snake.YPos)
-                {
-                    return true;
-                }
-            }
+		{
+			if (snake.XPos == CellsX || snake.XPos+1 == 0 || snake.YPos+1 == CellsY || snake.YPos+1 == 0)
+			{
+				return true;
+			}
+			for (int i=0; i < snake.Tail.Count; i++)
+			{
+				if (snake.Tail[i].XPos == snake.XPos && snake.Tail[i].YPos == snake.YPos)
+				{
+					return true;
+				}
+			}
 
 			if (Score == (CellsX * CellsY)-1){
 				return true;
 			}
 
-            return false;
-        }
+			return false;
+		}
 
 	public override void _Process(double delta)
 	{

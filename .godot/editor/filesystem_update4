@@ -1,8 +1,7 @@
-res://ui.tscn
-res://game.tscn
-res://game.cs
-res://segment.tscn
-res://ui.cs
 res://BoardSegment.tscn
-res://Backgroud.cs
+res://segment.tscn
+res://ui.tscn
 res://Background.cs
+res://game.cs
+res://ui.cs
+res://game.tscn

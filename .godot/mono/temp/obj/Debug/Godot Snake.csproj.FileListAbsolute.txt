@@ -15,3 +15,21 @@ D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\refint\Godot Snak
 D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.pdb
 D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.genruntimeconfig.cache
 D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\ref\Godot Snake.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\Godot Snake.deps.json
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\Godot Snake.runtimeconfig.json
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\Godot Snake.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\Godot Snake.pdb
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\GodotSharp.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.csproj.AssemblyReference.cache
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.AssemblyInfoInputs.cache
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.AssemblyInfo.cs
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.csproj.CoreCompileInputs.cache
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.sourcelink.json
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Sn.F42AD70A.Up2Date
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\refint\Godot Snake.dll
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.pdb
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.genruntimeconfig.cache
+C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\ref\Godot Snake.dll

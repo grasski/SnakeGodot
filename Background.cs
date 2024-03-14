@@ -4,17 +4,17 @@ using System;
 public partial class Background : CanvasGroup
 {
 	[Export]
-    PackedScene Segment { get; set; }
+	PackedScene Segment { get; set; }
 
 	private int boardWidth = 8; // Počet políček na šířku
-    private int boardHeight = 8; // Počet políček na výšku
-    private int tileSize = 50; // Velikost jednoho políčka
+	private int boardHeight = 8; // Počet políček na výšku
+	private int tileSize = 50; // Velikost jednoho políčka
 
-    public override void _Ready()
-    {
+	public override void _Ready()
+	{
 		// Získání rozměrů okna pomocí ViewportRect
-        int windowWidth = GetWindow().Size.X;
-        int windowHeight = GetWindow().Size.Y;
+		int windowWidth = GetWindow().Size.X;
+		int windowHeight = GetWindow().Size.Y;
 
 		var horizonalCount = (int)windowWidth / tileSize;
 		var verticalCount = (int)windowHeight / tileSize;
@@ -31,7 +31,7 @@ public partial class Background : CanvasGroup
 			}
 		}
 
-        GD.Print("Šířka okna: " + windowWidth + " " + horizonalCount);
-        GD.Print("Výška okna: " + windowHeight + " " + verticalCount);
-    }
+		GD.Print("Šířka okna: " + windowWidth + " " + horizonalCount);
+		GD.Print("Výška okna: " + windowHeight + " " + verticalCount);
+	}
 }
