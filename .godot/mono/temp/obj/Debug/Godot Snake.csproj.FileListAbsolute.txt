@@ -1,0 +1,17 @@
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\Godot Snake.deps.json
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\Godot Snake.runtimeconfig.json
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\Godot Snake.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\Godot Snake.pdb
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\GodotSharp.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\bin\Debug\GodotSharpEditor.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.csproj.AssemblyReference.cache
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.GeneratedMSBuildEditorConfig.editorconfig
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.AssemblyInfoInputs.cache
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.AssemblyInfo.cs
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.csproj.CoreCompileInputs.cache
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.csproj.CopyComplete
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\refint\Godot Snake.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.pdb
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.genruntimeconfig.cache
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\ref\Godot Snake.dll

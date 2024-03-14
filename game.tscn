@@ -1,0 +1,23 @@
+[gd_scene load_steps=6 format=3 uid="uid://bcy8tbqy3j4l8"]
+
+[ext_resource type="Script" path="res://game.cs" id="1_3hu33"]
+[ext_resource type="PackedScene" uid="uid://cgf67u5dmpav1" path="res://segment.tscn" id="2_obu85"]
+[ext_resource type="Script" path="res://Background.cs" id="3_28dvq"]
+[ext_resource type="PackedScene" uid="uid://cb11dscyojive" path="res://ui.tscn" id="3_nvgh1"]
+[ext_resource type="PackedScene" uid="uid://ca8bokd4nlj7g" path="res://BoardSegment.tscn" id="4_187na"]
+
+[node name="Game" type="Node" node_paths=PackedStringArray("Ui")]
+script = ExtResource("1_3hu33")
+Segment = ExtResource("2_obu85")
+Ui = NodePath("UI")
+
+[node name="UI" parent="." instance=ExtResource("3_nvgh1")]
+
+[node name="Background" type="CanvasGroup" parent="."]
+script = ExtResource("3_28dvq")
+Segment = ExtResource("4_187na")
+
+[node name="MoveTimer" type="Timer" parent="."]
+wait_time = 0.13
+
+[connection signal="timeout" from="MoveTimer" to="." method="OnStartTimerTimeout"]

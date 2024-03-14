@@ -1,0 +1,14 @@
+ea4bc82a6ad023ab7ee23ee620429895
+::res://::1710439027
+icon.svg::CompressedTexture2D::2282446378479811327::1710421351::1710421363::1::::<><>::
+game.tscn::PackedScene::2578381106280562835::1710438900::0::1::::<><>::res://game.cs<>uid://cgf67u5dmpav1::::res://segment.tscn<>uid://cddrcdkbitw7h::::res://assets/bg.png<>uid://cb11dscyojive::::res://ui.tscn
+game.cs::CSharpScript::-1::1710439011::0::1::::<>Node<>::
+Backgroud.cs::CSharpScript::-1::1710439027::0::1::::<><>::
+BoardSegment.tscn::PackedScene::4841052082580967922::1710439329::0::1::::<><>::
+ui.cs::CSharpScript::-1::1710437042::0::1::::<>CanvasLayer<>::
+segment.tscn::PackedScene::5206236787129480316::1710436953::0::1::::<><>::
+ui.tscn::PackedScene::4898288981442865430::1710438900::0::1::::<><>::res://ui.cs<>uid://u4s64kyqj5r8::::res://assets/backgroud_image.png
+::res://assets/::1710438282
+apple.png::CompressedTexture2D::2844363587183828336::1710421853::1710422049::1::::<><>::
+backgroud_image.png::CompressedTexture2D::1464793632846648227::1710438278::1710438282::1::::<><>::
+bg.png::CompressedTexture2D::4990636965102312279::1710421860::1710422049::1::::<><>::
