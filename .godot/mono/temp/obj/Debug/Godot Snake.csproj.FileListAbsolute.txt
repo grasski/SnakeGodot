@@ -33,3 +33,4 @@ C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\refint\Godot Snake.dll
 C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.pdb
 C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\Godot Snake.genruntimeconfig.cache
 C:\Users\goldb\SnakeGodot\.godot\mono\temp\obj\Debug\ref\Godot Snake.dll
+D:\zaloha\UTB-Ing\AP8PO\godot_snake\.godot\mono\temp\obj\Debug\Godot Snake.sourcelink.json

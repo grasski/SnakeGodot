@@ -1,7 +1,9 @@
 [gd_scene load_steps=3 format=3 uid="uid://cb11dscyojive"]
 
 [ext_resource type="Script" path="res://ui.cs" id="1_cex5l"]
-[ext_resource type="Texture2D" uid="uid://u4s64kyqj5r8" path="res://assets/backgroud_image.png" id="2_nhep3"]
+
+[sub_resource type="CompressedTexture2D" id="CompressedTexture2D_qo5ol"]
+load_path = "res://.godot/imported/backgroud_image.png-aadc6b2ce45adee3620c6e6c429a90b4.ctex"
 
 [node name="UI" type="CanvasLayer"]
 script = ExtResource("1_cex5l")
@@ -43,7 +45,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
-texture = ExtResource("2_nhep3")
+texture = SubResource("CompressedTexture2D_qo5ol")
 
 [node name="Label" type="Label" parent="Menu"]
 layout_mode = 1

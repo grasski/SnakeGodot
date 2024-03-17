@@ -1,7 +1,7 @@
-res://BoardSegment.tscn
-res://segment.tscn
 res://ui.tscn
-res://Background.cs
 res://game.cs
-res://ui.cs
 res://game.tscn
+res://segment.tscn
+res://BoardSegment.tscn
+res://Background.cs
+res://ui.cs
